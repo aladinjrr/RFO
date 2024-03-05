@@ -14,5 +14,6 @@ Removes the FPS cap
 Disables telemetry
 ```
 
-⚠️ Any Errors?
+# ⚠️ Any Errors?
+
 DM aladinundead on discord.
