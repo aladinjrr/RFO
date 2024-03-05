@@ -41,7 +41,7 @@
   "FFlagRemoveRedundantFontPreloading": "True",
   "FStringNewInGameMenuForcedUserIds": "2323539704;3822626535;4126963942;2627408279;4329723352",
   "FIntFRMMinGrassDistance": "0",
-  "DFIntTaskSchedulerTargetFps": "9999",
+  "DFIntTaskSchedulerTargetFps": "1200",
   "DFFlagDynamicFastVariableReloaderTest1": "False",
   "DFIntSecondsBetweenDynamicVariableReloading": "31557600",
   "FStringV1MenuLanguageSelectionFeatureForcedUserIds": "2323539704;3822626535",
