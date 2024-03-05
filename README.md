@@ -2,7 +2,7 @@
 # Potato Graphics | The Better
 # Features.
 ```
-Disables textures
+Disables textures (not anymore cause it doesnt increase fps its just visual)
 Disables player shadows
 Disables some effects (like sunrays)
 Disables antialiasing
