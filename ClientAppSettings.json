@@ -131,7 +131,7 @@
   "DFIntRakNetMtuValue1InBytes": "1280",
   "DFIntRakNetMtuValue2InBytes": "1240",
   "DFIntRakNetMtuValue3InBytes": "1200",
-  "DFIntConnectionMTUSize": "1400",
+  "DFIntConnectionMTUSize": "900",
   "FFlagCSGMeshDisableReadHash": "True",
   "FFlagCSGMeshDisableWriteHash": "True",
   "FFlagSimCSG3AsyncWarmv2": "True",
