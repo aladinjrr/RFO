@@ -12,3 +12,6 @@ Lowers model polygons from far
 Disables terrain grass
 Removes the FPS cap
 Disables telemetry```
+
+⚠️ Any Errors?
+DM aladinundead on discord.
