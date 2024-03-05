@@ -11,7 +11,8 @@ Forces graphics quality to 1 | While being able to change render distance
 Lowers model polygons from far
 Disables terrain grass
 Removes the FPS cap
-Disables telemetry```
+Disables telemetry
+```
 
 ⚠️ Any Errors?
 DM aladinundead on discord.
